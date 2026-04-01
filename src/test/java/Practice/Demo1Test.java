@@ -9,5 +9,6 @@ public class Demo1Test {
 	public void Dhurandhar()
 	{
 		System.out.println("Ranveer");
-	}
+		System.out.println("Aditya dhar");
+}
 }
